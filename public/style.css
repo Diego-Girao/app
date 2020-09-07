@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    font-size: 48px;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 15px;
+    color: navy;
+}
+
+#btnLoad{
+    border: none;
+    background-color: darkcyan;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+#btnLoad:hover{
+    background-color: lightseagreen;
+
+}
+
+.item{
+    font-size: 20px;
+    color: firebrick;
+}
+
+ul{
+    margin-left: 10px;
+}
+
+li{
+    margin-left: 15px;
+}
